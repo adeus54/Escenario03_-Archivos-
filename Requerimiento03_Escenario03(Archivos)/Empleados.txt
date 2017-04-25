@@ -1,0 +1,16 @@
+					****ESCENARIO 3****
+					Maquila de Software
+Lider: 
+Numero de Nomina: 239-HH-129 
+Nombre: Robert Patrick Salario Base: 1020.00 
+Lenguajes de Programacion: Python Salario Por Cargo: 1224.00 
+
+Grupo de Programadores: 
+Programador 1
+Numero de Nomina: 239-HH-129 
+Nombre: Lucas Petrovit Salario Base: 1584.00 
+Lenguajes de Programacion: Java
+Programador 2
+Numero de Nomina: 404-AA-291 
+Nombre: Daniel Hugh Salario Base: 980.00 
+Lenguajes de Programacion: C++ 
